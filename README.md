@@ -1,4 +1,4 @@
 # Knockcat-Sheet
 Important Interview Question
 
-Bad me achse se update ho jaegi for now just names.
+For now it has just names in random order, I'll update it soon in organised manner.
