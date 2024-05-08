@@ -1,0 +1,21 @@
+running median pattern -> two heaps.
+burst balloon mcm dp
+binary search dp problems.
+peak element, median of two sorted arrays, Kth Element of Two Sorted Arrays -> bs
+find element in sorted circular array I, II
+reverse nodes in k group, intersection of list, palindrome ll, merge sorted list (singly, doubly), merge k sorted list (external sorting).
+lru, lfu
+graph algorithms dfs, bfs, multisource-bfs, (dijistras, bellmanford, Floyd, mst(both [Kruskal, spanning]), dsu, cycle problem (directed, undirected), topological sort, graph coloring , tarjans algo(articulation point, bridges), eulerian path, travelling salesman.
+greedy algorithms (activity selection and task scheduling, fractional)
+maximum in every window of k, atmost k subarray question -> sliding window
+Construct binary tree from inorder and preorder, inorder and postorder, lca, kth common ancestor, all traversals, all binary tree views, morris traversal, bst, avl tree(balanced), rotations, inorder succ, predecessor, ceil, floor.
+tapping rain water
+monotonic stack question, largest rectangle in histogram, maximal rectangle
+largest square of any side(maximal square) dp
+Fibonacci, matrix multiplication log(n) approach (1e18)
+nqueen, sudoku solver, josephs problem, kth symbol grammar, m coloring problem, rat in a maze, combination sum 2, permutations string I, II.
+powerset algo, infinite search, gcd, fastpow, boyrs moore voting, cadence, kth select / quick select, merge, quick.
+spiral matrix, next permutation
+string kmp pattern matching.
+bst, avl tree, heap (imp), trie, dsu, segment tree ds implementation
+Time and space comp of all problems and algorithms
